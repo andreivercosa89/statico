@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staticos", "staticos\staticos.csproj", "{CA5E99F2-7079-48A4-83FC-EC3206BE26E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA5E99F2-7079-48A4-83FC-EC3206BE26E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5E99F2-7079-48A4-83FC-EC3206BE26E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5E99F2-7079-48A4-83FC-EC3206BE26E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5E99F2-7079-48A4-83FC-EC3206BE26E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

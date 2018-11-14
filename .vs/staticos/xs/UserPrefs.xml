@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CA5E99F2-7079-48A4-83FC-EC3206BE26E5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="staticos/Carro.cs">
+    <Files>
+      <File FileName="staticos/Program.cs" Line="9" Column="24" />
+      <File FileName="staticos/Carro.cs" Line="6" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.staticos PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
